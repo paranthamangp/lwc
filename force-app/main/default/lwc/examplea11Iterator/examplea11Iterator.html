@@ -1,7 +1,7 @@
 <template>
     <lightning-card title="Ex 11 - Iterator directive">
         <template iterator:it={cityList}>
-            <p key={it.value}>{it.value}</p>
+            <p key={it.value}>{it.index},{it.value}</p>
         </template>
     </lightning-card>
 </template>
