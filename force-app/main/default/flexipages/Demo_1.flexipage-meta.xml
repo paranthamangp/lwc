@@ -8,7 +8,22 @@
         </itemInstances>
         <itemInstances>
             <componentInstance>
+                <componentName>example3HelloWorld</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>example4HelloWorld</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
                 <componentName>example5TrackDecorator</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>example6TrackDecorator</componentName>
             </componentInstance>
         </itemInstances>
         <name>region1</name>
@@ -17,28 +32,23 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
-                <componentName>example3HelloWorld</componentName>
+                <componentName>example7ImportExport</componentName>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
-                <componentName>example6TrackDecorator</componentName>
+                <componentName>example8ApplyCSS</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>example9IfTrueFalse</componentName>
             </componentInstance>
         </itemInstances>
         <name>region2</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <itemInstances>
-            <componentInstance>
-                <componentName>example4HelloWorld</componentName>
-            </componentInstance>
-        </itemInstances>
-        <itemInstances>
-            <componentInstance>
-                <componentName>example7ImportExport</componentName>
-            </componentInstance>
-        </itemInstances>
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>
