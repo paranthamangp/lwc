@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Entities_policy__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Whether the org abides by entities policy ?</description>
+    <externalId>false</externalId>
+    <label>Entities policy</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
