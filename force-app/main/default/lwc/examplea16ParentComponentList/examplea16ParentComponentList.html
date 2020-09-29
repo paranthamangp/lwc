@@ -1,0 +1,11 @@
+<template>
+    <lightning-card title="Ex 16 - List of records from Parent to Child">
+    <ul>
+        <template for:each={parentRecords} for:item="room">
+            <li key={room.roomName} style="padding: 10px">
+                <c-examplea16-child-component-list child-record={room}></c-examplea16-child-component-list>
+            </li>
+        </template>
+    </ul>
+</lightning-card>
+</template>
