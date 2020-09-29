@@ -1,4 +1,6 @@
 <template>
+    <lightning-card title="Ex 18 - Slot Example">
+
     <ul>
         <template for:each={parentRecord} for:item="room">
             <li key={room.roomName} style="padding: 10px">
@@ -14,4 +16,5 @@
             </li>
         </template>
     </ul>
+</lightning-card>
 </template>
