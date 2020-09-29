@@ -108,4 +108,8 @@
         <name>standard__AllTabSet</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>LWC_Demo</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
