@@ -20,9 +20,10 @@ export default class Examplea20EventParent extends LightningElement {
         this.selectedMeetingRoom = meetingRoomInfo.roomName;
     }
 
+    /* 
     constructor(){
         super();
         this.template.addEventListener('tileclick', this.onTileSelectHandler.bind(this));
     }
-
+     */ 
 }
