@@ -20,6 +20,7 @@ export default class Examplea20EventParent extends LightningElement {
         this.selectedMeetingRoom = meetingRoomInfo.roomName;
     }
 
+    //Alternately, you can define both the listener and the handler in the owner component's JavaScript file.
     /* 
     constructor(){
         super();
